@@ -1,7 +1,0 @@
-echo "# projetos-de-aprendizado" >> README.md 
-git init 
-git add README.md 
-git commit -m "primeiro commit" 
-git branch -M main 
-git remote add origin https://github.com/14Luizz/projetos-de-aprendizado.git
- git push -u origin main
